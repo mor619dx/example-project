@@ -1,0 +1,1 @@
+# This file is for duplicated file name to test detection
